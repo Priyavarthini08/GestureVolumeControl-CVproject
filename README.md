@@ -10,7 +10,7 @@ The objective of this project is to develop an interface which will capture huma
 
 ![image](https://github.com/Priyavarthini08/GestureVolumeControl-CVproject/assets/145207599/642e5130-7c6a-4141-9b48-56b8f6cfa979)
 
-REUIREMENTS:
+REQUIRED MODULES:
 
 opencv-python -to perform operations associated with computer vision
 mediapipe -open-source machine learning library of Google, which has some solutions for hand detection and gesture recognition
